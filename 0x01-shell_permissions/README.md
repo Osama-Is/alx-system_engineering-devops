@@ -1,1 +1,1 @@
-This folders contains a bunch of tasks upon permissions in linux.
+My own solutions for linux permissions' tasks.
